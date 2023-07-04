@@ -28,3 +28,8 @@ public { // uim libraries
 
   import langs.javascript;
 }
+
+public {
+    import admin.contacts.controllers;
+    import admin.contacts.views;
+}
